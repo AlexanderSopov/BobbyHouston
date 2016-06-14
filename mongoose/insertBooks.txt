@@ -1,0 +1,17 @@
+db.books.insert({
+title: "Refactoring the DOM",
+author: "Joe Blow",
+category: "Tech",
+})
+
+db.books.insert({
+title: "Learn Coloqual speech",
+author: "Joane Blowina",
+category: "Humanities",
+})
+
+db.books.insert({
+title: "Refactoring the DOM - Sequel",
+author: "Joe Blow",
+category: "Tech",
+})
